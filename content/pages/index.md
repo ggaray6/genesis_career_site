@@ -15,10 +15,10 @@ sections:
     backgroundSize: full
     title: Howdy!
     subtitle: >-
-      I am Genesis Garay. This is my info—I’m sharing it all this with ya’ll to
-      impress you with all the hard work I’ve done in the past few years. Once
-      you’re impressed, you can continue to scroll down to see more details and
-      credentials about me.
+      I am Genesis Garay. I am a passionate This is my info—I’m sharing it all
+      this with ya’ll to impress you with all the hard work I’ve done in the
+      past few years. Once you’re impressed, you can continue to scroll down to
+      see more details and credentials about me.
     styles:
       self:
         height: auto
